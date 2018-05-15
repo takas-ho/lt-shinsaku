@@ -42,6 +42,12 @@
 		<script src="reveal.js/lib/js/head.min.js"></script>
 		<script src="reveal.js/js/reveal.js"></script>
 		<script>
+			Reveal.configure({
+				keyboard: {
+					37: 'prev',
+					39: 'next'
+				}
+			});
 			Reveal.initialize({
 				controls: true,
 				progress: true,
