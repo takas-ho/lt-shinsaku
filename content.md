@@ -190,11 +190,8 @@ Note:
 
 ---
 
-# 世に棲む日日
+<!-- .slide: style="background-color:rgba(0,0,0,0.5); " -->
+<!-- .slide: data-background-image="./assets/shinsaku_shunsuke.jpg" data-background-size="30%" -->
 
-- 日本の歴史は司馬遼でできている
+伊藤俊介と2ショット
 
-- 司馬遼太郎「世に棲む日日」全４巻
-
-Note:
-- 前半、松陰先生。後半魔王
